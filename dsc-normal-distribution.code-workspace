@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../dsc-normal-distribution"
+		},
+		{
+			"path": "../dsc-standard-normal-distribution"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}
